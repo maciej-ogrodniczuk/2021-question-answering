@@ -117,6 +117,12 @@ but they will be marked with a different color.
 
 Tags: poleval-2021, qa
 
+# Citation
+
+Please cite the PolEval 2021 proceedings paper:
+
+Ogrodniczuk M. and Przybyła P. (2021). PolEval 2021 Task 4: Question Answering Challenge. In: M. Ogrodniczuk and Ł. Kobyliński (eds.) Proceedings of the PolEval 2021 Workshop, pp. 123–136, Warsaw. Institute of Computer Science, Polish Academy of Sciences. http://nlp.ipipan.waw.pl/Bib/ogr:prz:21:poleval.pdf
+
 ## Notes
 
 [^1]:
